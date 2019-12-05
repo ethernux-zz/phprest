@@ -1,9 +1,9 @@
 # PHPRest
 
 
-
 PHPRest is a simple RestAPI in PHP who cans manage products and categories.
-This a basic version 
+SQL file has included  , just import to your server and dont forget change
+connection information to config/database.php file.
 
 
 #  Features!
@@ -18,3 +18,5 @@ This a basic version
 # Requirements
  - PHP 5.1 or early
  - MySQL any version
+ 
+Use POSTMAN or something else REST client software
